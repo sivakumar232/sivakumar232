@@ -1,8 +1,5 @@
 <h2 align="left">Hi 👋! I'm Siva Kumar</h2>
 
-
-=
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sivakumar232&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sivakumar232&theme=dark&hide_border=false)<br/>
