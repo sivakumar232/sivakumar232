@@ -20,7 +20,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
 
 
-![](https://bushido-ivory.vercel.app/api/quotes/random/svg?theme=dark&width=1000)
+![](https://bushido-ivory.vercel.app/api/quotes/quoteofthedday/svg?theme=dark&width=1000)
 ### 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=sivakumar232&theme=dark&hide_border=false)<br/>
