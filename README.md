@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:2b2b2b,100:5a5a5a&height=140&section=header&text=Siva%20Kumar%20Vemuri&fontColor=e8e8e8&fontSize=36&fontAlignY=40" width="100%" />
-
 I build AI agents, agentic workflows, and ship small products that actually work.
 
 ## Building
@@ -12,6 +11,8 @@ I build AI agents, agentic workflows, and ship small products that actually work
 ## Stack
 
 `TypeScript` `React` `Next.js` `Node.js` `Python` `PostgreSQL` `MongoDB` `Docker`
+
+<img src="https://raw.githubusercontent.com/sivakumar232/sivakumar232/output/snake.svg" alt="snake animation" width="100%" />
 
 ## Find me
 
