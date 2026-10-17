@@ -4,9 +4,9 @@ I build AI agents, agentic workflows, and ship small products that actually work
 ## Building
 
 - **[askcampus](https://github.com/sivakumar232/clg-chatbot)**: agentic RAG chatbot for college queries
-- **[REVA](https://www.sivakumxr.site/project/reva-ai)**: multilingual voice-to-structured complaint platform (Azure Speech + LLMs)
+- **[REVA](https://github.com/sivakumar232/REVA-AI)**: multilingual voice-to-structured complaint platform (Azure Speech + LLMs)
 - **[NebulaSketch](https://github.com/sivakumar232/nebulasketch)**: real-time multiplayer drawing game (WebSockets + Redis)
-- **[whoami](https://www.sivakumxr.site/project/whoami)**: multi-user portfolio platform
+- **[whoami](https://github.com/sivakumar232/whoami-core)**: multi-user portfolio platform
 
 ## Stack
 
